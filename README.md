@@ -37,6 +37,8 @@ What things you need to install to run the application.
 Java JDK 1.8
 Netbeans IDE newest version
 GlassFish Server 4.1.1
+JSTL Library
+JDBC 4++ version
 ```
 
 ## Deployment
