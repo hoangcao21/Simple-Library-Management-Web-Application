@@ -7,7 +7,7 @@ The application hardly uses JavaScript, mainly build with JSP & Servlets, JSTL, 
 The functions for the application are defined by the roles:
 * Admin: see the system log, disable an user's active session;
 * Student: view available books, search or reserve book, view his profile and the books he leased;
-* Staff: view available books, search book, renew books for students, remove & add books;
+* Staff: view available books, search book, renew books for students, remove & add books.
 
 Other function: filter user authentication and authorization, stop user from accessing forbidden resources.
 
