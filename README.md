@@ -9,7 +9,7 @@ The functions for the application are defined by the roles:
 * Student: view available books, search or reserve book, view his profile and the books he leased;
 * Staff: view available books, search book, renew books for students, remove & add books.
 
-Other function: filter user authentication and authorization, stop user from accessing forbidden resources.
+Other functions: filter user authentication and authorization, stop user from accessing forbidden resources.
 
 This is the ERD and some demonstrating images.
 
@@ -42,7 +42,12 @@ JDBC 4++ version
 ```
 
 ## Deployment
-Open Netbeans IDE, open the project and run ```login_green.jsp``` to build and run the application.
+Open Netbeans IDE, open the project and run ```login_green.jsp``` to build and run the application. 
+
+Demo account for each roles:
+* Admin: ```admin``` - ```admin```
+* Student: ```student1``` - ```sa123456```
+* Staff: ```staff1``` - ```sa123456```
 
 ## Built With
 
